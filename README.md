@@ -22,3 +22,6 @@ here is some regular text
 ```python
 print("Hello nice to meet you")
 ```
+
+
+![markdown-image](markdown-image.png)
