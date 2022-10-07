@@ -6,6 +6,6 @@
 
 here is some regular text
 
-*this should come out as italics"
+*this should come out as italics*
 
 **this should come out as bold**
