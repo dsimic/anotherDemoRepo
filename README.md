@@ -24,4 +24,4 @@ print("Hello nice to meet you")
 ```
 
 
-![markdown-image](markdown-image.png)
+![markdown-image](markdown-image.jpeg)
