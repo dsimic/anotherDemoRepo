@@ -13,3 +13,7 @@ here is some regular text
 ---
 
 **this should come out as bold**
+
+```python
+print("Hello nice to meet you")
+```
