@@ -8,6 +8,9 @@ here is some regular text
 
 >"... to boldly go where no one has gone before"
 
+
+[code](code)
+
 ---
 
 *this should come out as italics*
