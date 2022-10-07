@@ -6,6 +6,8 @@
 
 here is some regular text
 
+>"... to boldly go where no one has gone before"
+
 ---
 
 *this should come out as italics*
